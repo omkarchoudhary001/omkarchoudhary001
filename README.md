@@ -3,9 +3,9 @@
 <!-- <h3 style=font-family: 'Fuzzy Bubbles', cursive;>𝐼'𝑚 Omkar Choudhary!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h3> -->
 <!-- <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFD4B2&lines=𝐼'𝑚+OmkarChoudary!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFD4B2&lines=𝐼'𝑚+OmkarChoudhary!)](https://git.io/typing-svg)
 
-<h3> 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗖𝗼𝗺𝗽𝗹𝗲𝘁𝗲𝗱 𝗕.𝘁𝗲𝗰𝗵 𝗶𝗻 𝗜𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆, 𝗮𝗻𝗱 𝗹𝗼𝗼𝗸𝗶𝗻𝗴 𝗳𝗼𝗿 𝗻𝗲𝘄 𝗼𝗽𝗽𝗼𝗿𝘁𝘂𝗻𝗶𝘁𝘆.<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h3><br>
+<h3> C𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗖𝗼𝗺𝗽𝗹𝗲𝘁𝗲𝗱 𝗕.𝘁𝗲𝗰𝗵 𝗶𝗻 𝗜𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆, 𝗮𝗻𝗱 𝗹𝗼𝗼𝗸𝗶𝗻𝗴 𝗳𝗼𝗿 𝗻𝗲𝘄 𝗼𝗽𝗽𝗼𝗿𝘁𝘂𝗻𝗶𝘁𝘆.<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h3><br>
 
 <img align='right' src="https://media.giphy.com/media/SEiFq3e1S4xyQGzird/giphy.gif" width="400">
 <!-- <img align='right' src="https://media.giphy.com/media/7G9YhMtnt2FQR9Sscd/giphy.gif" width="400"> -->
@@ -17,7 +17,7 @@
 <ul>
 <li>📌 I enjoy exploring new technologies and leveraging them to solve real-world problems.</li>
 <li>📌 I'm open to learning and contributing to the community by innovating and working hard..</li>
-<li>📌 I am proficient in Python, C/C++ programming languages, SQL, OOPs, and have knowledge of Data Structures and Algorithms along with experience on Web Development technologies like HTML, CSS, JavaScript, ReactJS.</li>
+<li>📌 I am proficient in Python, C/C++ programming languages,SQL, OOPs, and have knowledge of Data Structures and Algorithms along with experience on Web Development technologies like HTML, CSS, JavaScript, ReactJS.</li>
 <li>📌Currently, I'm learning and working on ReactJS technology..</li>
 </ul>
 
