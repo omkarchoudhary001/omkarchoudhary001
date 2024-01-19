@@ -36,7 +36,7 @@ I have a knack for socializing with different people (｡◕‿◕｡), and I'll
 <a href="https://www.codechef.com/" target="blank"><img align="center" src="https://img.icons8.com/ios/512/codechef.png" alt="Omkar choudhary" height="31" width="31" /></a>
 <a href="https://codeforces.com/profile/mr.c0d3r" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/512/external-codeforces-programming-competitions-and-contests-programming-community-logo-filled-tal-revivo.png" alt="mr.c0d3r" height="31" width="31" /></a>
 <a href="https://leetcode.com/omkarchoudhary001/" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/512/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-tritone-tal-revivo.png" alt="omkar choudhary" height="31" width="31" /></a>
-<a href="https://auth.geeksforgeeks.org/user/omkarci79z" target="blank"><img align="center" src="https://icons-for-free.com/iconfiles/png/512/geeksforgeeks-1324440162314212381.png" alt="@Sunny_Raj_" height="35" width="31" /></a>
+<a href="https://auth.geeksforgeeks.org/user/omkarci79z" target="blank"><img align="center" src="https://icons-for-free.com/iconfiles/png/512/geeksforgeeks-1324440162314212381.png" alt="@omkar_choudhary" height="35" width="31" /></a>
   
   
 </br>
@@ -85,18 +85,18 @@ I have a knack for socializing with different people (｡◕‿◕｡), and I'll
 
 
 <!-- <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=SR-Sunny-Raj&theme=dracula&bg_color=ffffff00&color=878787&line=296dda&point=ffffff00&area=true&hide_border=true">
+  <img src="https://activity-graph.herokuapp.com/graph?username=&theme=dracula&bg_color=ffffff00&color=878787&line=296dda&point=ffffff00&area=true&hide_border=true">
 </p> -->
 
 <!-- <p align="center">
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=SR-Sunny-Raj&theme=dracula&bg_color=ffffff00&color=878787&area=true&hide_border=true">
+
 </p> -->
 
 <!-- <p align="center">
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SR-omkarchoudhary&theme=dracula&bg_color=ffffff00&color=878787&line=296dda&point=ffffff00&area=true&hide_border=true">
 </p> -->
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SR-Sunny-Raj&repo=Hacktoberfest2022-for-everyone&show_owner=true&theme=gruvbox_light)](https://github.com/omkarchoudhary/Hacktoberfest2022-for-everyone) -->
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=&repo=Hacktoberfest2022-for-everyone&show_owner=true&theme=gruvbox_light)](https://github.com/omkarchoudhary/Hacktoberfest2022-for-everyone) -->
   
 <!-- #### 🔰 Support :- -->
 <h4> 🔰 𝑆𝑢𝑝𝑝𝑜𝑟𝑡 :-</h4>
