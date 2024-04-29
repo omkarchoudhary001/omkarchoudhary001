@@ -97,7 +97,10 @@ I have a knack for socializing with different people (｡◕‿◕｡), and I'll
 </p> -->
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=&repo=Hacktoberfest2022-for-everyone&show_owner=true&theme=gruvbox_light)](https://github.com/omkarchoudhary/Hacktoberfest2022-for-everyone) -->
-  
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
 <!-- #### 🔰 Support :- -->
 <h4> 🔰 𝑆𝑢𝑝𝑝𝑜𝑟𝑡 :-</h4>
 <p float="left">
